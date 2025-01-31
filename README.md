@@ -26,8 +26,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Hasintha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Hasintha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasintha00&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasintha00&layout=compact&theme=radical)
 
 ---
 
