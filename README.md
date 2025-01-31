@@ -1,61 +1,11 @@
-![name-banner](https://github.com/user-attachments/assets/15c7a415-4aa0-43f1-b6a6-59bd395cb084)## 👋 Hello, I'm Hasintha!
+![name-banner](https://github.com/user-attachments/assets/04ec478f-fbae-4c66-bc95-9f33f284fe37)## 👋 Hello, I'm Hasintha!
 
-![Uploading name-ban<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+![Uploading name-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
     <!-- Background Rectangle -->
     <rect width="800" height="200" fill="#000033"/>
-    
-    <!-- Abstract Cityscape -->
-    <g opacity="0.6">
-        <!-- Buildings -->
-        <rect x="50" y="80" width="40" height="120" fill="#0066cc"/>
-        <rect x="100" y="60" width="30" height="140" fill="#0055aa"/>
-        <rect x="140" y="90" width="50" height="110" fill="#004499"/>
-        <rect x="200" y="40" width="35" height="160" fill="#0066cc"/>
-        <rect x="245" y="70" width="45" height="130" fill="#0055aa"/>
-        <rect x="300" y="50" width="40" height="150" fill="#004499"/>
-        <rect x="350" y="80" width="30" height="120" fill="#0066cc"/>
-        <rect x="390" y="60" width="45" height="140" fill="#0055aa"/>
-        <rect x="445" y="40" width="35" height="160" fill="#004499"/>
-        <rect x="490" y="70" width="40" height="130" fill="#0066cc"/>
-        <rect x="540" y="50" width="35" height="150" fill="#0055aa"/>
-        <rect x="585" y="80" width="45" height="120" fill="#004499"/>
-        <rect x="640" y="60" width="30" height="140" fill="#0066cc"/>
-        <rect x="680" y="40" width="40" height="160" fill="#0055aa"/>
-        <rect x="730" y="70" width="35" height="130" fill="#004499"/>
-    </g>
-
-    <!-- Neon Glow Effects -->
-    <g opacity="0.4">
-        <circle cx="100" cy="50" r="80" fill="#ff00ff" filter="blur(40)"/>
-        <circle cx="600" cy="30" r="60" fill="#00ffff" filter="blur(30)"/>
-    </g>
-
-    <!-- Main Text with Shadow -->
-    <defs>
-        <filter id="shadow">
-            <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#ffffff"/>
-        </filter>
-    </defs>
-    
-    <text x="400" y="110" 
-          text-anchor="middle" 
-          font-family="Arial Black, sans-serif" 
-          font-size="48" 
-          fill="white"
-          filter="url(#shadow)">
-        HASINTHA
-    </text>
-    
-    <text x="400" y="160" 
-          text-anchor="middle" 
-          font-family="Arial Black, sans-serif" 
-          font-size="48" 
-          fill="white"
-          filter="url(#shadow)">
-        INDUWARA
-    </text>
+   
 </svg>
-ner.svg…]()
+banner.svg…]()
 
 
 
