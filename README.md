@@ -1,6 +1,6 @@
 ![name-banner (1)](https://github.com/user-attachments/assets/23797cee-d5dd-43ff-b4fe-73fd86ce2182)## 👋 Hello, I'm Hasintha!
 
-![Up<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
     <!-- Background Rectangle -->
     <rect width="800" height="200" fill="#0A1929"/>
 
