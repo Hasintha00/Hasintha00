@@ -1,11 +1,9 @@
-![name-banner](https://github.com/user-attachments/assets/04ec478f-fbae-4c66-bc95-9f33f284fe37)## 👋 Hello, I'm Hasintha!
+(https://github.com/user-attachments/assets/7761e55b-b0bf-4719-905b-670e731fea3b)## 👋 Hello, I'm Hasintha!
 
-![Uploading name-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
     <!-- Background Rectangle -->
-    <rect width="800" height="200" fill="#000033"/>
-   
-</svg>
-banner.svg…]()
+    <rect width="800" height="200" fill="#0A1929"/>
+
 
 
 
