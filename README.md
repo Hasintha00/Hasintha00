@@ -1,5 +1,6 @@
 ## 👋 Hello, I'm Hasintha!
 
+![Profile Banner](https://via.placeholder.com/1200x300) <!-- Replace with actual banner image if available -->
 
 
 💡 **About Me:**
