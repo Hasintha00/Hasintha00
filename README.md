@@ -5,7 +5,7 @@
     <rect width="800" height="200" fill="#0A1929"/>
 
 </svg>
-loading name-banner (1).svg…]()
+
 
 
 
