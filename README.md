@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Hasintha!
 
 
-![Screenshot 2025-02-01 110519](https://github.com/user-attachments/assets/fc7e26c8-f9dd-4817-a3c9-030276f4f448)
+![ChatGPT Image May 13, 2025, 10_18_24 PM](https://github.com/user-attachments/assets/1d8ff9a7-b927-4b9f-8e11-94bc166d8f19)
 
 
 
@@ -14,6 +14,7 @@
 - 🌱 Currently learning **iOS Development & Advanced Web Technologies**
 
 ---
+
 
 ### 🚀 Tech Stack
 
