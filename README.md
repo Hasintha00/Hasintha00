@@ -1,265 +1,53 @@
-import React, { useState, useEffect } from 'react';
-import { Lightbulb, GraduationCap, Code, BarChart, Book, Mail, Link, Github, Linkedin, Twitter, Sun, Moon } from 'lucide-react';
 
-const App = () => {
-  const [theme, setTheme] = useState('light'); // State for theme toggling
+## 👋 Hello, I'm Hasintha!
 
-  useEffect(() => {
-    // Apply initial theme
-    if (theme === 'dark') {
-      document.documentElement.classList.add('dark');
-    } else {
-      document.documentElement.classList.remove('dark');
-    }
-  }, [theme]);
 
-  const toggleTheme = () => {
-    setTheme(prevTheme => (prevTheme === 'light' ? 'dark' : 'light'));
-  };
+![ChatGPT Image May 13, 2025, 10_18_24 PM](https://github.com/user-attachments/assets/736bfa74-5e91-424a-a452-c7ab591ce98b)
 
-  const techStack = [
-    { name: 'Python', logo: 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' },
-    { name: 'Java', logo: 'https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white' },
-    { name: 'HTML', logo: 'https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' },
-    { name: 'Angular', logo: 'https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' },
-    { name: 'CSS', logo: 'https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' },
-    { name: 'PHP', logo: 'https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' },
-    { name: 'JavaScript', logo: 'https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' },
-    { name: 'C++', logo: 'https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white' },
-    { name: 'Spring Boot', logo: 'https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white' },
-  ];
 
-  return (
-    <div className="min-h-screen bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100 font-sans p-4 sm:p-8 flex items-center justify-center">
-      {/* Tailwind CSS CDN and custom styles for animations */}
-      <script src="https://cdn.tailwindcss.com"></script>
-      <style>
-        {`
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
-        body { font-family: 'Inter', sans-serif; }
 
-        @keyframes wave {
-          0% { transform: rotate(0deg); }
-          10% { transform: rotate(14deg); }
-          20% { transform: rotate(-8deg); }
-          30% { transform: rotate(14deg); }
-          40% { transform: rotate(-4deg); }
-          50% { transform: rotate(10deg); }
-          60% { transform: rotate(0deg); }
-          100% { transform: rotate(0deg); }
-        }
 
-        .animate-wave {
-          animation: wave 2s linear infinite;
-          transform-origin: 70% 70%;
-          display: inline-block;
-        }
+💡 **About Me:**
+- 🎓 Undergraduate at **SLIIT**
+- 💻 Passionate about **Web Development, UI/UX & Software Engineering**
+- 🛠️ Skilled in **Python, Java, HTML, Angular, CSS, PHP, JavaScript, C++, C, Spring Boot**
+- 📊 Data Analysis & Machine Learning Enthusiast
+- 🌱 Currently learning **iOS Development & Advanced Web Technologies**
 
-        .fade-in-up {
-          opacity: 0;
-          transform: translateY(20px);
-          animation: fadeInUp 0.5s ease-out forwards;
-        }
+---
 
-        @keyframes fadeInUp {
-          to {
-            opacity: 1;
-            transform: translateY(0);
-          }
-        }
 
-        .delay-100 { animation-delay: 0.1s; }
-        .delay-200 { animation-delay: 0.2s; }
-        .delay-300 { animation-delay: 0.3s; }
-        .delay-400 { animation-delay: 0.4s; }
-        .delay-500 { animation-delay: 0.5s; }
-        .delay-600 { animation-delay: 0.6s; }
-        .delay-700 { animation-delay: 0.7s; }
+### 🚀 Tech Stack
 
-        .hover-scale:hover {
-          transform: scale(1.05);
-          transition: transform 0.2s ease-in-out;
-        }
-        .section-separator {
-            width: 100%;
-            height: 2px;
-            background: linear-gradient(to right, #6EE7B7, #3B82F6, #9333EA);
-            border-radius: 9999px;
-            margin: 2rem 0;
-            opacity: 0.7;
-        }
-        `}
-      </style>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-      <div className="relative max-w-4xl w-full bg-white dark:bg-gray-800 shadow-xl rounded-xl p-6 sm:p-10 border border-gray-200 dark:border-gray-700">
-        {/* Theme Toggle Button */}
-        <button
-          onClick={toggleTheme}
-          className="absolute top-4 right-4 p-2 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 hover:scale-110 transition-transform duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500"
-          aria-label="Toggle theme"
-        >
-          {theme === 'light' ? <Moon size={20} /> : <Sun size={20} />}
-        </button>
+---
 
-        {/* Hello Section */}
-        <h1 className="text-4xl sm:text-5xl font-bold text-center mb-6 text-blue-600 dark:text-blue-400">
-          <span role="img" aria-label="waving hand" className="animate-wave mr-2">👋</span> Hello, I'm Hasintha!
-        </h1>
+### 📈 GitHub Stats
+![Hasintha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasintha00&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasintha00&layout=compact&theme=radical)
 
-        {/* Profile Image - Placeholder/Simulated for dynamic effect */}
-        <div className="relative w-full h-48 sm:h-64 mb-8 rounded-lg overflow-hidden shadow-lg border border-gray-300 dark:border-gray-600">
-          {/* Using a placeholder for visual appeal, a real GIF/video cannot be generated by the model. */}
-          <img
-            src="https://placehold.co/800x400/3B82F6/FFFFFF?text=Dynamic+Profile+Image"
-            alt="Dynamic Profile Placeholder"
-            className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
-            onError={(e) => { e.target.onerror = null; e.target.src = "https://placehold.co/800x400/D1D5DB/4B5563?text=Image+Load+Error"; }}
-          />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end p-4 sm:p-6">
-            <p className="text-white text-lg sm:text-xl font-semibold opacity-0 animate-[fadeInUp_1s_ease-out_forwards_0.5s]">
-              "Innovating one line of code at a time."
-            </p>
-          </div>
-        </div>
+---
 
-        <div className="section-separator"></div>
+### 📚 Latest Blog Posts
+- 📝 [How to Start an Open Source Project on GitHub](#)
+- 📝 [Introduction to Machine Learning](#)
+- 📝 [Building Better UI/UX Design Principles](#)
 
-        {/* About Me Section */}
-        <section className="mb-8">
-          <h2 className="text-2xl sm:text-3xl font-semibold mb-4 text-purple-600 dark:text-purple-400 flex items-center">
-            <Lightbulb size={28} className="mr-2 text-yellow-500" /> About Me
-          </h2>
-          <ul className="space-y-3 text-gray-700 dark:text-gray-300">
-            <li className="flex items-center fade-in-up delay-100">
-              <GraduationCap size={20} className="mr-2 text-green-500" />
-              <span>Undergraduate at <strong className="font-bold">SLIIT</strong></span>
-            </li>
-            <li className="flex items-center fade-in-up delay-200">
-              <Code size={20} className="mr-2 text-blue-500" />
-              <span>Passionate about <strong className="font-bold">Web Development, UI/UX & Software Engineering</strong></span>
-            </li>
-            <li className="flex items-center fade-in-up delay-300">
-              <Code size={20} className="mr-2 text-red-500" />
-              <span>Skilled in <strong className="font-bold">Python, Java, HTML, Angular, CSS, PHP, JavaScript, C++, C, Spring Boot</strong></span>
-            </li>
-            <li className="flex items-center fade-in-up delay-400">
-              <BarChart size={20} className="mr-2 text-teal-500" />
-              <span>Data Analysis & Machine Learning Enthusiast</span>
-            </li>
-            <li className="flex items-center fade-in-up delay-500">
-              <Book size={20} className="mr-2 text-orange-500" />
-              <span>Currently learning <strong className="font-bold">iOS Development & Advanced Web Technologies</strong></span>
-            </li>
-          </ul>
-        </section>
+---
 
-        <div className="section-separator"></div>
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasintha-meegahawela-7a206b348/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hasintha.im@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
 
-        {/* Tech Stack Section */}
-        <section className="mb-8">
-          <h2 className="text-2xl sm:text-3xl font-semibold mb-4 text-green-600 dark:text-green-400 flex items-center">
-            <Code size={28} className="mr-2 text-indigo-500" /> Tech Stack
-          </h2>
-          <div className="flex flex-wrap gap-3 justify-center sm:justify-start">
-            {techStack.map((tech, index) => (
-              <div key={tech.name} className="hover-scale fade-in-up" style={{ animationDelay: `${0.1 * index + 0.6}s` }}>
-                <img src={tech.logo} alt={tech.name} className="rounded-md shadow-sm" />
-              </div>
-            ))}
-          </div>
-        </section>
-
-        <div className="section-separator"></div>
-
-        {/* GitHub Stats Section */}
-        <section className="mb-8">
-          <h2 className="text-2xl sm:text-3xl font-semibold mb-4 text-pink-600 dark:text-pink-400 flex items-center">
-            <Github size={28} className="mr-2 text-gray-600 dark:text-gray-300" /> GitHub Stats
-          </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 justify-items-center">
-            <img
-              src="https://github-readme-stats.vercel.app/api?username=Hasintha00&show_icons=true&theme=radical&hide_border=true"
-              alt="Hasintha's GitHub Stats"
-              className="w-full max-w-sm rounded-lg shadow-md border border-gray-300 dark:border-gray-600 transform transition-transform duration-300 hover:scale-105"
-            />
-            <img
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasintha00&layout=compact&theme=radical&hide_border=true"
-              alt="Top Languages"
-              className="w-full max-w-sm rounded-lg shadow-md border border-gray-300 dark:border-gray-600 transform transition-transform duration-300 hover:scale-105"
-            />
-          </div>
-        </section>
-
-        <div className="section-separator"></div>
-
-        {/* Latest Blog Posts Section */}
-        <section className="mb-8">
-          <h2 className="text-2xl sm:text-3xl font-semibold mb-4 text-yellow-600 dark:text-yellow-400 flex items-center">
-            <Book size={28} className="mr-2 text-amber-500" /> Latest Blog Posts
-          </h2>
-          <ul className="space-y-2 text-gray-700 dark:text-gray-300">
-            <li className="flex items-center">
-              <span className="mr-2 text-gray-500 dark:text-gray-400">📝</span>
-              <a href="#" className="text-blue-500 hover:underline transition-colors duration-200">How to Start an Open Source Project on GitHub</a>
-            </li>
-            <li className="flex items-center">
-              <span className="mr-2 text-gray-500 dark:text-gray-400">📝</span>
-              <a href="#" className="text-blue-500 hover:underline transition-colors duration-200">Introduction to Machine Learning</a>
-            </li>
-            <li className="flex items-center">
-              <span className="mr-2 text-gray-500 dark:text-gray-400">📝</span>
-              <a href="#" className="text-blue-500 hover:underline transition-colors duration-200">Building Better UI/UX Design Principles</a>
-            </li>
-          </ul>
-        </section>
-
-        <div className="section-separator"></div>
-
-        {/* Connect With Me Section */}
-        <section className="mb-8">
-          <h2 className="text-2xl sm:text-3xl font-semibold mb-4 text-teal-600 dark:text-teal-400 flex items-center">
-            <Mail size={28} className="mr-2 text-cyan-500" /> Connect With Me
-          </h2>
-          <div className="flex flex-wrap gap-4 justify-center sm:justify-start">
-            <a
-              href="https://www.linkedin.com/in/hasintha-meegahawela-7a206b348/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover-scale flex items-center bg-blue-700 text-white px-4 py-2 rounded-lg shadow-md transition-all duration-200 hover:bg-blue-800"
-            >
-              <Linkedin size={20} className="mr-2" /> LinkedIn
-            </a>
-            <a
-              href="mailto:hasintha.im@gmail.com"
-              className="hover-scale flex items-center bg-red-600 text-white px-4 py-2 rounded-lg shadow-md transition-all duration-200 hover:bg-red-700"
-            >
-              <Mail size={20} className="mr-2" /> Email
-            </a>
-            <a
-              href="https://twitter.com/your-handle"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover-scale flex items-center bg-sky-500 text-white px-4 py-2 rounded-lg shadow-md transition-all duration-200 hover:bg-sky-600"
-            >
-              <Twitter size={20} className="mr-2" /> Twitter
-            </a>
-            <a
-              href="https://yourportfolio.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover-scale flex items-center bg-purple-600 text-white px-4 py-2 rounded-lg shadow-md transition-all duration-200 hover:bg-purple-700"
-            >
-              <Link size={20} className="mr-2" /> Portfolio
-            </a>
-          </div>
-        </section>
-
-        <p className="text-center text-lg mt-8 text-gray-600 dark:text-gray-400 italic">
-          🚀 _Always learning, always building!_
-        </p>
-      </div>
-    </div>
-  );
-};
-
-export default App;
+🚀 _Always learning, always building!_
