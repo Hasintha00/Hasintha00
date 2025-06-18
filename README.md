@@ -122,9 +122,16 @@ I love automating tasks and am always on the lookout for the next cool tech tren
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hasintha00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/Hasintha00/Hasintha00/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+<!-- Animated SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello!+I'm+Hasintha+Induwara;Undergraduate+Student+at+SLIIT;Passionate+about+DevOps+%26+AI+%F0%9F%A7%A1" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hasintha00&style=flat-square&color=36bcf7" alt="Profile views" />
+</p>
+
 _Always eager to learn, build, and connect!_
