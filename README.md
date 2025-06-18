@@ -1,5 +1,10 @@
 ![ChatGPT Image May 13, 2025, 10_18_24 PM](https://github.com/user-attachments/assets/736bfa74-5e91-424a-a452-c7ab591ce98b)
 
+<!-- ====== GRID SNAKE SVG ANIMATION ====== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hasintha00/Hasintha00/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 <!-- Animated SVG Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello!+I'm+Hasintha+Induwara;Undergraduate+Student+at+SLIIT;Passionate+about+DevOps+%26+AI+%F0%9F%A7%A1" alt="Typing SVG" />
@@ -52,7 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>
- 
 </p>
 
 <!-- Centered badges below the icons -->
@@ -125,6 +129,3 @@ I love automating tasks and am always on the lookout for the next cool tech tren
 </p>
 
 _Always eager to learn, build, and connect!_
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hasintha00/Hasintha00/output/github-contribution-grid-snake.svg" />
-</p>
