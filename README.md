@@ -1,3 +1,5 @@
+![ChatGPT Image May 13, 2025, 10_18_24 PM](https://github.com/user-attachments/assets/736bfa74-5e91-424a-a452-c7ab591ce98b)
+
 <!-- Animated SVG Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello!+I'm+Hasintha+Induwara;Undergraduate+Student+at+SLIIT;Passionate+about+DevOps+%26+AI+%F0%9F%A7%A1" alt="Typing SVG" />
