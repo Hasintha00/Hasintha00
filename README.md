@@ -1,9 +1,6 @@
 ![ChatGPT Image May 13, 2025, 10_18_24 PM](https://github.com/user-attachments/assets/736bfa74-5e91-424a-a452-c7ab591ce98b)
 
-<!-- ====== GRID SNAKE SVG ANIMATION ====== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hasintha00/Hasintha00/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
 
 <!-- Animated SVG Header -->
 <p align="center">
@@ -127,5 +124,7 @@ I love automating tasks and am always on the lookout for the next cool tech tren
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Hasintha00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hasintha00/Hasintha00/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 _Always eager to learn, build, and connect!_
