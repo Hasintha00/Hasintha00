@@ -45,11 +45,16 @@
 
 ## 🎉 Fun with DevOps & AI
 
-<p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="AI Animation" width="200"/>
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" alt="DevOps Animation" width="200"/>
-</p>
-
+<!-- Animated DevOps & AI Section -->
+<div align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7,6DB3F7,FF6F00&height=120&section=header&text=DevOps%20%26%20AI%20Fun!&fontColor=fff&fontSize=40&fontAlignY=35" />
+  <br>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="AI Animation" width="180" style="margin: 0 24px; border-radius:12px; box-shadow:0 4px 18px #36bcf7a0;">
+  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" alt="DevOps Rocket Animation" width="160" style="margin: 0 24px; border-radius:12px; box-shadow:0 4px 18px #ff6f00a0;">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" alt="DevOps Animation" width="180" style="margin: 0 24px; border-radius:12px; box-shadow:0 4px 18px #4b8bbea0;">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F00,6DB3F7,36BCF7&height=80&section=footer" />
+</div>
 ---
 
 ## 🔗 Connect with Me
