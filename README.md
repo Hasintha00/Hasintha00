@@ -34,7 +34,7 @@
 ## 🌟 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasintha00&repo=YOUR_TOP_PROJECT&theme=tokyonight" />
+  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Hasintha00&repo=YOUR_TOP_PROJECT&theme=tokyonight](https://github.com/Hasintha00/Expense-Tracker)" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasintha00&repo=YOUR_SECOND_PROJECT&theme=tokyonight" />
 </p>
 
