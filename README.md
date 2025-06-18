@@ -125,4 +125,6 @@ I love automating tasks and am always on the lookout for the next cool tech tren
 </p>
 
 _Always eager to learn, build, and connect!_
-
+<p align="center">
+  <img src="https://github.com/Hasintha00/Hasintha00/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
