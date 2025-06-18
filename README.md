@@ -15,6 +15,7 @@
 
 - 🎓 **Undergraduate Student at SLIIT**
 - 🚀 Eager to innovate in **DevOps** & **Artificial Intelligence**
+- 🛠️ Skilled in **Python, Java, HTML, Angular, CSS, PHP, JavaScript, C++, C, Spring Boot**
 - 🌱 Always learning new tech, tools, and frameworks
 
 ---
