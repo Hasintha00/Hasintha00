@@ -84,7 +84,7 @@
 <!-- Animated DevOps & AI Section -->
 <p align="center">
   <!-- AI/Programming GIF -->
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="AI Developer" width="170" style="margin-right: 25px; border-radius:12px">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="AI Animation" width="180" style="margin: 0 24px; border-radius:12px; box-shadow:0 4px 18px #36bcf7a0;">
   <!-- DevOps/Automation GIF -->
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="DevOps Automation" width="170" style="margin-right: 25px; border-radius:12px">
   <!-- Teamwork/Remote Work GIF -->
