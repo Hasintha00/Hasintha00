@@ -1,4 +1,6 @@
-![ChatGPT Image May 13, 2025, 10_18_24 PM](https://github.com/user-attachments/assets/736bfa74-5e91-424a-a452-c7ab591ce98b)
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
 
 
 
