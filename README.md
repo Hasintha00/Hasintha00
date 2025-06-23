@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/Hasintha Induwara/master/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Hasintha Induwara" />
 </h1>
-
 
 
 <!-- Animated SVG Header -->
