@@ -90,7 +90,7 @@
   <!-- DevOps/Automation GIF -->
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="DevOps Automation" width="170" style="margin-right: 25px; border-radius:12px">
   <!-- Teamwork/Remote Work GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Remote Work" width="170" style="border-radius:12px">
+  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="Remote Work" width="170" style="border-radius:12px">
 </p>
 ---
 
