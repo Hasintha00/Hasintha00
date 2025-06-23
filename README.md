@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Hasintha Induwara" />
+  <img src="https://github.com/Hasintha00/old-profile-readme/blob/master/name.svg" />
 </h1>
 
 
