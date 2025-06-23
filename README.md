@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Hasintha00/old-profile-readme/blob/master/name.svg" />
+  <img src="https://raw.githubusercontent.com/Hasintha00/old-profile-readme/1521d59a59a1c3e658f0f1a667b7c5e5e963eb1b/name.svg" />
 </h1>
 
 
