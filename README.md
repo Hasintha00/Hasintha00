@@ -115,7 +115,11 @@
 </p>
 
 ---
-
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/Hasintha00/Hasintha00/blob/output/github-snake-dark.svg)
+</div>
 ## 💡 Fun Fact
 
 I love automating tasks and am always on the lookout for the next cool tech trend. If I'm not coding, you might find me reading sci-fi or exploring open-source communities!
