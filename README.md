@@ -5,7 +5,7 @@
 
 <!-- Animated SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello!+I'm+Hasintha+Induwara;Undergraduate+Student+at+SLIIT;Passionate+about+DevOps+%26+AI+%F0%9F%A7%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello!+Developers+!;Undergraduate+Student+at+SLIIT;Passionate+about+DevOps+%26+AI+%F0%9F%A7%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,11 @@
 ---
 
 
-##  About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
+
+<img width="15%" align="right" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
+
+
+  About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
 - 🎓 **Undergraduate Student at SLIIT**
 - 🚀 Eager to innovate in **DevOps** & **Artificial Intelligence**
@@ -25,7 +29,7 @@
 
 ---
 
-## 🛠️ Skills & Tech Stack </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  Skills & Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
 <p align="center">
   <!-- Row 1: Devicon-style icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
@@ -83,22 +87,7 @@
 *Check out more in the pinned section on my [profile](https://github.com/Hasintha00)!*
 
 ---
-
-## 🎉 Fun with DevOps & AI
-
-<!-- Animated DevOps & AI Section -->
-<p align="center">
-  <!-- AI/Programming GIF -->
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="AI Animation" width="300" style="margin: 0 24px; border-radius:12px; box-shadow:0 4px 18px #36bcf7a0;">
-
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDd6MmVmY2RhY3I5cnJoY3JqZ2l4cGd6NWRqOHluNzh3ajRxcHg3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UfxmvOkQamypuyTsSM/giphy.gif" alt="DevOps Automation" width="180" style="margin-right: 25px; border-radius:24px">
-  <!-- DevOps/Automation GIF -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="DevOps Automation" width="300" style="margin-right: 50px; border-radius:24px">
-  <!-- Teamwork/Remote Work GIF -->
-</p>
----
-
-## 🔗 Connect with Me
+##  Connect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hasintha-meegahawela-7a206b348/">
@@ -119,6 +108,23 @@
 </p>
 
 ---
+
+## 🎉 Fun with DevOps & AI
+
+<!-- Animated DevOps & AI Section -->
+<p align="center">
+  <!-- AI/Programming GIF -->
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="AI Animation" width="300" style="margin: 0 24px; border-radius:12px; box-shadow:0 4px 18px #36bcf7a0;">
+
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDd6MmVmY2RhY3I5cnJoY3JqZ2l4cGd6NWRqOHluNzh3ajRxcHg3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UfxmvOkQamypuyTsSM/giphy.gif" alt="DevOps Automation" width="180" style="margin-right: 25px; border-radius:24px">
+  <!-- DevOps/Automation GIF -->
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="DevOps Automation" width="300" style="margin-right: 50px; border-radius:24px">
+  <!-- Teamwork/Remote Work GIF -->
+</p>
+
+---
+
+
 <!-- Snake Animation -->
 <div align="center">
     
