@@ -14,16 +14,18 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+
+##  About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
 - 🎓 **Undergraduate Student at SLIIT**
 - 🚀 Eager to innovate in **DevOps** & **Artificial Intelligence**
 - 🛠️ Skilled in **Python, Java, HTML, Angular, CSS, PHP, JavaScript, C++, C, Spring Boot**
 - 🌱 Always learning new tech, tools, and frameworks
 
+
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Skills & Tech Stack </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 <p align="center">
   <!-- Row 1: Devicon-style icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
@@ -70,8 +72,9 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
 </p>
 
----
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo Animation">
+</p>
 ## 🌟 Featured Projects
 
 ![Hasintha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasintha00&show_icons=true&theme=radical)
@@ -86,11 +89,12 @@
 <!-- Animated DevOps & AI Section -->
 <p align="center">
   <!-- AI/Programming GIF -->
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="AI Animation" width="180" style="margin: 0 24px; border-radius:12px; box-shadow:0 4px 18px #36bcf7a0;">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="AI Animation" width="300" style="margin: 0 24px; border-radius:12px; box-shadow:0 4px 18px #36bcf7a0;">
+
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDd6MmVmY2RhY3I5cnJoY3JqZ2l4cGd6NWRqOHluNzh3ajRxcHg3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UfxmvOkQamypuyTsSM/giphy.gif" alt="DevOps Automation" width="180" style="margin-right: 25px; border-radius:24px">
   <!-- DevOps/Automation GIF -->
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="DevOps Automation" width="170" style="margin-right: 25px; border-radius:12px">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="DevOps Automation" width="300" style="margin-right: 50px; border-radius:24px">
   <!-- Teamwork/Remote Work GIF -->
-  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="Remote Work" width="170" style="border-radius:12px">
 </p>
 ---
 
